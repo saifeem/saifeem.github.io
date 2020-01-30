@@ -1,0 +1,54 @@
+.navbar {
+    background-color: white !important;
+    border-color: white;
+}
+
+.nav-item {
+    padding-right: 50px;
+    font-family: 'Lato', sans-serif;
+    font-size: 16px; 
+
+}
+
+.jumbotron {
+background-image: url(https://www.itl.cat/pngfile/big/92-923175_31-white-background-hd-high-resolution-desktop-wallpaper.jpg);
+background-size: cover;
+height: 100vh; 
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;   
+}
+
+.display-4 {
+    font-size: 60px; 
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+}
+
+.lead {
+    font-size: 18px; 
+    text-align: center; 
+    font-family: 'Lato', sans-serif;
+    margin-top: 40px;
+
+}
+
+.jumbotron img {
+    max-width: 40%;
+    margin-top: 40px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* projects */
+
+.row{
+    display: flex;
+    margin-top: 40px; 
+}
+
+
